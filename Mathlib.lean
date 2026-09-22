@@ -5324,6 +5324,7 @@ public import Mathlib.LinearAlgebra.Matrix.Nonsingular
 public import Mathlib.LinearAlgebra.Matrix.NonsingularInverse
 public import Mathlib.LinearAlgebra.Matrix.Notation
 public import Mathlib.LinearAlgebra.Matrix.Orthogonal
+public import Mathlib.LinearAlgebra.Matrix.PauliMatrix
 public import Mathlib.LinearAlgebra.Matrix.Permanent
 public import Mathlib.LinearAlgebra.Matrix.Permutation
 public import Mathlib.LinearAlgebra.Matrix.Polynomial
