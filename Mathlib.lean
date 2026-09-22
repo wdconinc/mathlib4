@@ -773,6 +773,7 @@ public import Mathlib.Algebra.Lie.SerreConstruction
 public import Mathlib.Algebra.Lie.SkewAdjoint
 public import Mathlib.Algebra.Lie.Sl2
 public import Mathlib.Algebra.Lie.Solvable
+public import Mathlib.Algebra.Lie.SpecialUnitary
 public import Mathlib.Algebra.Lie.Subalgebra
 public import Mathlib.Algebra.Lie.Submodule
 public import Mathlib.Algebra.Lie.TensorProduct
